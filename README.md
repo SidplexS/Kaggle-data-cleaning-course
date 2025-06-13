@@ -9,3 +9,8 @@ This repository contains lessons, tutorial notebooks, and exercises from Kaggle'
 4. Character Encodings – Resolve encoding issues while importing CSV files.
 
 5. Inconsistent Data Entry – Clean up typos and standardize categorical entries efficiently.
+
+
+link to course: https://www.kaggle.com/learn/data-cleaning
+
+link to my certificate: https://www.kaggle.com/learn/certification/siddheshsuryavanshi/data-cleaning
